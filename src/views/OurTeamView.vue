@@ -43,7 +43,7 @@ hjghggmgjygjm        improving Programmatic and creating impactful experiences f
         name="Adam"
         desc="Hello, I'm Adam. I have about 4 years of experience in Unity and making video games."
         langs="Python, C#"
-        discord="@yourmom"
+        discord="@tbd"
         pos="Founder, Graphic Designer"
         imgurl="discord.png"
       />
@@ -52,7 +52,7 @@ hjghggmgjygjm        improving Programmatic and creating impactful experiences f
         name="Ethan"
         desc="Website Developer"
         langs="Python, C++, Java, JavaScript"
-        discord="@yourmom"
+        discord="@tbd"
         pos="Full-Stack Developer, Dev of the Programmatic Discord Bot"
         imgurl="discord.png"
       />
