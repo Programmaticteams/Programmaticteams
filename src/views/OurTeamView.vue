@@ -16,7 +16,7 @@ import BioCard from "../components/BioCard.vue";
         the continued development and improvment of Programmatic. With a perfect
         blend of visionary founders, brilliant developers, and creative minds,
         our team has a passion for providing excellent teaching material and
-hjghggmgjygjm        improving Programmatic and creating impactful experiences for our
+        creating impactful experiences for our
         students. Meet the team:
       </h3>
     </section>
